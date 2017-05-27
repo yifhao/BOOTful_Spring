@@ -1,2 +1,2 @@
-
+*.cmd linguist-language=java
 *.sh linguist-language=java
